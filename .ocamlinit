@@ -1,0 +1,13 @@
+#require "oUnit";;
+#directory "_build";;
+#load "command.cmo";;
+#load "consts.cmo";;
+#load "main.cmo";;
+#load "player.cmo";;
+#load "property.cmo";;
+#load "state.cmo";;
+#load "boardPrinter.cmo";;
+#load "properties.cmo";;
+#require "ANSITerminal";;
+#require "str";;
+#load "commandOld.cmo";;

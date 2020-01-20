@@ -1,0 +1,20 @@
+# docs
+doc.public
+doc.private
+
+# ocaml
+*.cmo
+*.cma
+*.cmi
+*.out
+*.cmx
+*.native
+*.byte
+_build
+*.zip
+
+# temporary files
+*.swp
+*~
+\#*\#
+.DS_Store
