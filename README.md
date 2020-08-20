@@ -15,6 +15,12 @@ Our project is a command line interface impementation of the classic board game
 "MONOPOLY"!
 
 # Installation
+
+First: follow instructions to install ocaml, opam, and all required packages from this link.
+http://www.cs.cornell.edu/courses/cs3110/2019fa/install.html
+
+All steps from above link must be completed before installation will work.
+
 1. Download the zip file
 2. Unzip the file 
 3. Change directory into the unzipped directory (3110Project).
