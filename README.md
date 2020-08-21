@@ -21,7 +21,7 @@ http://www.cs.cornell.edu/courses/cs3110/2019fa/install.html
 
 All steps from above link must be completed before installation will work.
 
-1. Download the zip file
+1. Download the repository as a zip file
 2. Unzip the file 
 3. Change directory into the unzipped directory (3110Project).
 
